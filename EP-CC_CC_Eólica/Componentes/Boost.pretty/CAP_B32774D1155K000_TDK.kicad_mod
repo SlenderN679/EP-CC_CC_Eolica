@@ -1,0 +1,227 @@
+(footprint "CAP_B32774D1155K000_TDK"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "B32774D1155K000 ")
+	(property "Reference" "REF**"
+		(at 13.749998 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b539452a-ab03-4bda-98d6-c038d5d36220")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP_B32774D1155K000_TDK"
+		(at 13.749998 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6ab11c72-b377-4e42-a78f-96f81934889b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d526b79d-3e19-411c-938c-eeb28388c8b5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b9b3276-540f-42c3-ad9c-51050a91b941")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.125002 -6.3754)
+		(end -2.125002 6.3754)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6d7aa9e2-2638-4019-bd58-0dea11b99d8b")
+	)
+	(fp_line
+		(start 29.624998 -6.3754)
+		(end -2.125002 -6.3754)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c9624b76-c9e6-4bc8-9f56-e6d4ab584a9f")
+	)
+	(fp_line
+		(start 29.624998 -6.3754)
+		(end 29.624998 6.3754)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a4ca8d8-9be5-42de-92d0-eae4bdeeef87")
+	)
+	(fp_line
+		(start 29.624998 6.3754)
+		(end -2.125002 6.3754)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d111fb3-b0c0-4eb7-a6a2-9930711cff27")
+	)
+	(fp_line
+		(start -2.252002 -6.5024)
+		(end 29.751998 -6.5024)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e66735a-1ab9-44e0-9a76-7c823163af89")
+	)
+	(fp_line
+		(start -2.252002 6.5024)
+		(end -2.252002 -6.5024)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ef6fbcab-93a6-4b66-8e92-72c1f7ae1a68")
+	)
+	(fp_line
+		(start 29.751998 -6.5024)
+		(end 29.751998 6.5024)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b76564c6-ea2d-47c9-95d7-0cf207d970d8")
+	)
+	(fp_line
+		(start 29.751998 6.5024)
+		(end -2.252002 6.5024)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1db33608-995f-4fe1-a90d-1e34a33f0dd0")
+	)
+	(fp_line
+		(start -1.998002 -6.2484)
+		(end -1.998002 6.2484)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8a797ca1-85f1-4649-9e73-d3053a916823")
+	)
+	(fp_line
+		(start 29.497998 -6.2484)
+		(end -1.998002 -6.2484)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "57708a06-e36c-4cf8-ac16-00d4cd93349b")
+	)
+	(fp_line
+		(start 29.497998 -6.2484)
+		(end 29.497998 6.2484)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f255edc1-ecb6-479d-adb4-4f6689346033")
+	)
+	(fp_line
+		(start 29.497998 6.2484)
+		(end -1.998002 6.2484)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "77cbbb11-7264-4234-ba39-f92e89996c0b")
+	)
+	(fp_circle
+		(center -1.490002 0)
+		(end -1.490002 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "b243a836-f09b-4869-bfcf-5e5e6beb7aaf")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 13.749998 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "120be54a-6e28-421d-ac9b-127d5f72ca7a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.6002 1.6002)
+		(drill 1.0922)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aac9cca5-2668-4869-9999-fb5bd8d0554c")
+	)
+	(pad "2" thru_hole circle
+		(at 27.499996 0)
+		(size 1.6002 1.6002)
+		(drill 1.0922)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f55564ef-3194-43bd-81a7-99988bf680cd")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Componentes/B32774D1155K000/CAP_B32774D1155K000_TDK.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
