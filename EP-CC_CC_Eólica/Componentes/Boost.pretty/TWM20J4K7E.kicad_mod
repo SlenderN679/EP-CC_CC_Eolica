@@ -1,0 +1,124 @@
+(footprint "TWM20J4K7E"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b0864b06-7455-48d2-bfef-270fda8f3a28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TWM20J4K7E "
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6ade8406-c316-479c-893f-500fa0562930")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ohmite.com/assets/images/res-tww-twm.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c551734d-718e-4d72-b3e2-6b8b68dc96f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9806f270-51eb-454d-9f6d-c6f80b3d9054")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -10 -6.5)
+		(end 10 6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b5371f9e-be76-4372-bdfa-002c388e64ad")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "de2f14bf-47d4-49cf-a7d9-8869f1ae5c09")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.75 -1.905)
+		(size 1.5 1.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "55b653ab-1643-4716-8b30-0985dcd2f84f")
+	)
+	(pad "1" thru_hole circle
+		(at -3.75 1.905)
+		(size 1.5 1.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d0182445-0b39-4b7c-8888-ae4bf8434e84")
+	)
+	(pad "2" thru_hole circle
+		(at 3.75 -1.905)
+		(size 1.5 1.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "488773fb-2fa3-4c97-8df3-cd283777d123")
+	)
+	(pad "2" thru_hole circle
+		(at 3.75 1.905)
+		(size 1.5 1.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "65247619-59fa-4c51-bf0e-0c1827a1714f")
+	)
+	(embedded_fonts no)
+	(model "${BOOST}/VM10_MVM10_stp.stp"
+		(offset
+			(xyz -10 6.5 0)
+		)
+		(scale
+			(xyz 1.25 1 1.1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

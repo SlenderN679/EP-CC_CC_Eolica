@@ -4,7 +4,12 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "unconnected-(STM1-PadPB5)",
+      "unconnected-(STM1-PadPB2)",
+      "unconnected-(STM1-PadPE6)",
+      "unconnected-(STM1-PadPE2)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -46,7 +51,6 @@
       "zones",
       "drc_warnings",
       "drc_exclusions",
-      "locked_item_shadows",
       "conflict_shadows",
       "shapes"
     ],
@@ -97,7 +101,7 @@
       91,
       71,
       91,
-      91
+      427
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

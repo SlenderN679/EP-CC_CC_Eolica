@@ -1,4 +1,4 @@
-46787890268666472
+46804010860385948
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -392,11 +392,32 @@ battery CR-3032 coin cell vertical
 2
 2
 Boost
+153231
+
+
+0
+8
+8
+Boost
+CAP_22 X 35_NCH
+
+LGU2D471MELZ 
+0
+2
+2
+Boost
 CAP_B32774D1155K000_TDK
 
 B32774D1155K000 
 0
 2
+2
+Boost
+CONN2_2604-3102_WAG
+
+2604-3102 
+0
+4
 2
 Boost
 DO-247_STM
@@ -406,6 +427,13 @@ STBR3012W
 2
 2
 Boost
+HO 25-N_SP33-1000
+
+
+0
+13
+13
+Boost
 INF-PG-TO247-3
 TO-247-3,5.44mm pitch;3 pin,15.915mm L X 5.02mm W X 25.57mm H body
 
@@ -413,9 +441,23 @@ TO-247-3,5.44mm pitch;3 pin,15.915mm L X 5.02mm W X 25.57mm H body
 3
 3
 Boost
+REC30K_RCP
+
+REC30K-2415DZ 
+0
+6
+0
+Boost
 RES_ROX3S_TYCO_TYC
 
 ROX3SJ100K 
+0
+2
+2
+Boost
+SHBC24W-2R1A0311V
+
+
 0
 2
 2
@@ -427,12 +469,33 @@ ST Morpho  and Zio Connectors 144 With STLink
 108
 87
 Boost
+TO-220_High
+
+
+0
+3
+3
+Boost
 TO-247-3_CRW
 
 C4D20120D 
 0
 3
 3
+Boost
+TWM20J4K7E
+
+
+0
+4
+2
+Boost
+VS-36MT160
+
+
+0
+6
+6
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf

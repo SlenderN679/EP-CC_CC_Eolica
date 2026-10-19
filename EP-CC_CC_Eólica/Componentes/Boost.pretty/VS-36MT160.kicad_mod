@@ -1,0 +1,145 @@
+(footprint "VS-36MT160"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2a7e8e36-eccf-4178-b82b-a5904c6fd3d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "VS-36MT160"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "496056ab-32f4-4657-85f8-d03073dcf419")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e09f40b-5ae5-4895-8b70-d463258c7def")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed322ad7-6fd2-4d3f-8b02-499fb45e9371")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -14.325 -14.325)
+		(end 14.325 14.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cb830713-33e5-40ce-b0ac-dc7b9a57e381")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6e03be25-3c31-4edb-bf95-63409e86ab4b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "0" thru_hole circle
+		(at 0 0 90)
+		(size 5.4 5.4)
+		(drill 5.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d57c3076-2dcb-4770-95ab-b39212b25a43")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 12.25)
+		(size 7.25 1.5)
+		(drill oval 6.4 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "5a72d2f1-4874-4a88-bb33-16fa4f358e78")
+	)
+	(pad "2" thru_hole roundrect
+		(at -12.25 8.15 90)
+		(size 7.25 1.5)
+		(drill oval 6.4 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "683e6b99-afa6-46b8-8daf-21dc057c5fe3")
+	)
+	(pad "3" thru_hole roundrect
+		(at 12.25 -8.15 90)
+		(size 7.25 1.5)
+		(drill oval 6.4 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "c34f5ad3-e613-4bcd-8524-b48ed0d6ec62")
+	)
+	(pad "4" thru_hole roundrect
+		(at -12.25 -8.15 90)
+		(size 7.25 1.5)
+		(drill oval 6.4 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "99553b94-6176-40d8-bb6d-27669fcca1c8")
+	)
+	(pad "5" thru_hole roundrect
+		(at 0 -12.25)
+		(size 7.25 1.5)
+		(drill oval 6.4 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "713bc131-8150-4f58-874e-ca0a533eb0bd")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_DIGITRON_KBPC_T.step"
+		(offset
+			(xyz -9 7 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
