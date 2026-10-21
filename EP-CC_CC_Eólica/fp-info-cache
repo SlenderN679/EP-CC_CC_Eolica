@@ -1,4 +1,4 @@
-46804010860385948
+46805803286891411
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -440,6 +440,13 @@ TO-247-3,5.44mm pitch;3 pin,15.915mm L X 5.02mm W X 25.57mm H body
 0
 3
 3
+Boost
+LGW2E471MELZ40
+
+LGW2E471MELZ40 
+0
+2
+2
 Boost
 REC30K_RCP
 
